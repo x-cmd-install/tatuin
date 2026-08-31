@@ -1,0 +1,56 @@
+about:
+  description: Tatuin (Task Aggregator TUI for N providers)
+  license: MIT
+  homepage: 
+  head: 846b79e
+  archived: false
+  latestVersion: v0.26.0
+  collectedAt: 2026-08-31T05:27:12Z
+timeline:
+  created: 2025-04-12
+  lastCommit: 2026-08-31
+  lastRelease: 2026-01-16
+popularity:
+  star: 137
+  watcher: 4
+  fork: 4
+  release: 43
+  contributor: 4
+  pullRequest: 8
+  issue: 123
+language:
+  Rust: 509508
+totalLine: 509508
+recent:
+  last30d:
+    since: 2026-08-01
+    release: 0
+    mergedPR: 14
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 13
+  last90d:
+    since: 2026-06-02
+    release: 0
+    mergedPR: 36
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 40
+  last180d:
+    since: 2026-03-04
+    release: 0
+    mergedPR: 81
+    openPR: 0
+    closedIssue: 1
+    openIssue: 0
+    commit: 107
+  last360d:
+    since: 2025-09-05
+    release: 9
+    mergedPR: 204
+    openPR: 0
+    closedIssue: 50
+    openIssue: 9
+    commit: 481
