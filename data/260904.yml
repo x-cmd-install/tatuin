@@ -7,7 +7,7 @@ about:
   head: 6f890c4
   archived: false
   latestVersion: v0.26.0
-  collectedAt: 2026-09-04T19:29:34Z
+  collectedAt: 2026-09-04T21:03:08Z
 timeline:
   created: 2025-04-12
   lastCommit: 2026-09-04
@@ -80,5 +80,33 @@ total:
   openIssue: 18
   commit: 1631
 ---
+path: /home/runner/.x-repo/github.com/panter-dsd/tatuin
+collectedAt: 2026-09-04T21:03:10Z
+loc:
+  Rust:
+    code: 14579
+    comments: 126
+    blanks: 2270
+    files: 97
+  Toml:
+    code: 4134
+    comments: 12
+    blanks: 448
+    files: 8
+  Markdown:
+    code: 0
+    comments: 71
+    blanks: 45
+    files: 3
+  Text:
+    code: 0
+    comments: 5
+    blanks: 3
+    files: 1
+total:
+  code: 18718
+  comments: 214
+  blanks: 2766
+  files: 109
 ---
 
