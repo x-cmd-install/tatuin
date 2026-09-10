@@ -12,6 +12,17 @@ Tatuin (Task Aggregator TUI for N providers)
 x install tatuin
 ```
 
+## Code insight
+
+Total: **18,713** lines of code across **109** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Rust | 14,579 | 126 | 2,270 | 97 |
+| Toml | 4,134 | 12 | 448 | 8 |
+| Markdown | 0 | 71 | 45 | 3 |
+| Text | 0 | 5 | 3 | 1 |
+
 ## Source
 
 - **Upstream**: <https://github.com/panter-dsd/tatuin>
@@ -22,7 +33,6 @@ x install tatuin
 - **Latest**: `v0.26.0` (2026-01-16)
 - **Last commit**: 2026-09-07
 - **Assets in release**: 26
-- **Published**: 2026-01-16T04:10:00Z
 
 ## Popularity
 
@@ -37,27 +47,54 @@ x install tatuin
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 13 | 0 | 0 | 0 | 13 |
+| last60d | 2026-07-12 | 0 | 25 | 0 | 0 | 0 | 25 |
 | 90d | 2026-06-12 | 0 | 37 | 0 | 0 | 0 | 42 |
+| last180d | 2026-03-14 | 0 | 75 | 0 | 1 | 0 | 101 |
 | 360d | 2025-09-15 | 6 | 198 | 0 | 43 | 7 | 451 |
+| last720d | 2024-09-20 | 43 | 340 | 0 | 105 | 18 | 1633 |
 
-## Code size
+## Release assets
 
-Total: **18,713** lines of code across **109** files in the top 5 languages.
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [tatuin-FreeBSD-i686.tar.gz](https://github.com/panter-dsd/tatuin/releases/download/v0.26.0/tatuin-FreeBSD-i686.tar.gz) | 7.4 MiB | `native/linux/x86` |
+| [tatuin-FreeBSD-i686.tar.gz.sha256](https://github.com/panter-dsd/tatuin/releases/download/v0.26.0/tatuin-FreeBSD-i686.tar.gz.sha256) | 93 B | `other` |
+| [tatuin-FreeBSD-x86_64.tar.gz](https://github.com/panter-dsd/tatuin/releases/download/v0.26.0/tatuin-FreeBSD-x86_64.tar.gz) | 7.8 MiB | `native/linux/x64` |
+| [tatuin-FreeBSD-x86_64.tar.gz.sha256](https://github.com/panter-dsd/tatuin/releases/download/v0.26.0/tatuin-FreeBSD-x86_64.tar.gz.sha256) | 95 B | `other` |
+| [tatuin-Linux-gnu-arm64.tar.gz](https://github.com/panter-dsd/tatuin/releases/download/v0.26.0/tatuin-Linux-gnu-arm64.tar.gz) | 7.4 MiB | `native/linux/arm64/glibc` |
+| [tatuin-Linux-gnu-arm64.tar.gz.sha256](https://github.com/panter-dsd/tatuin/releases/download/v0.26.0/tatuin-Linux-gnu-arm64.tar.gz.sha256) | 96 B | `native/linux/arm64/glibc` |
+| [tatuin-Linux-gnu-i686.tar.gz](https://github.com/panter-dsd/tatuin/releases/download/v0.26.0/tatuin-Linux-gnu-i686.tar.gz) | 7.4 MiB | `native/linux/x86/glibc` |
+| [tatuin-Linux-gnu-i686.tar.gz.sha256](https://github.com/panter-dsd/tatuin/releases/download/v0.26.0/tatuin-Linux-gnu-i686.tar.gz.sha256) | 95 B | `native/linux/x86/glibc` |
+| [tatuin-Linux-gnu-riscv64gc.tar.gz](https://github.com/panter-dsd/tatuin/releases/download/v0.26.0/tatuin-Linux-gnu-riscv64gc.tar.gz) | 6.8 MiB | `native/linux/riscv64/glibc` |
+| [tatuin-Linux-gnu-riscv64gc.tar.gz.sha256](https://github.com/panter-dsd/tatuin/releases/download/v0.26.0/tatuin-Linux-gnu-riscv64gc.tar.gz.sha256) | 100 B | `native/linux/riscv64/glibc` |
+| [tatuin-Linux-gnu-x86_64.tar.gz](https://github.com/panter-dsd/tatuin/releases/download/v0.26.0/tatuin-Linux-gnu-x86_64.tar.gz) | 7.8 MiB | `native/linux/x64/glibc` |
+| [tatuin-Linux-gnu-x86_64.tar.gz.sha256](https://github.com/panter-dsd/tatuin/releases/download/v0.26.0/tatuin-Linux-gnu-x86_64.tar.gz.sha256) | 97 B | `native/linux/x64/glibc` |
+| [tatuin-Linux-musl-arm64.tar.gz](https://github.com/panter-dsd/tatuin/releases/download/v0.26.0/tatuin-Linux-musl-arm64.tar.gz) | 7.4 MiB | `native/linux/arm64/musl` |
+| [tatuin-Linux-musl-arm64.tar.gz.sha256](https://github.com/panter-dsd/tatuin/releases/download/v0.26.0/tatuin-Linux-musl-arm64.tar.gz.sha256) | 97 B | `native/linux/arm64/musl` |
+| [tatuin-Linux-musl-i686.tar.gz](https://github.com/panter-dsd/tatuin/releases/download/v0.26.0/tatuin-Linux-musl-i686.tar.gz) | 7.1 MiB | `native/linux/x86/musl` |
+| [tatuin-Linux-musl-i686.tar.gz.sha256](https://github.com/panter-dsd/tatuin/releases/download/v0.26.0/tatuin-Linux-musl-i686.tar.gz.sha256) | 96 B | `native/linux/x86/musl` |
+| [tatuin-Linux-musl-x86_64.tar.gz](https://github.com/panter-dsd/tatuin/releases/download/v0.26.0/tatuin-Linux-musl-x86_64.tar.gz) | 7.9 MiB | `native/linux/x64/musl` |
+| [tatuin-Linux-musl-x86_64.tar.gz.sha256](https://github.com/panter-dsd/tatuin/releases/download/v0.26.0/tatuin-Linux-musl-x86_64.tar.gz.sha256) | 98 B | `native/linux/x64/musl` |
+| [tatuin-macOS-arm64.tar.gz](https://github.com/panter-dsd/tatuin/releases/download/v0.26.0/tatuin-macOS-arm64.tar.gz) | 5.1 MiB | `native/darwin/arm64` |
+| [tatuin-macOS-arm64.tar.gz.sha256](https://github.com/panter-dsd/tatuin/releases/download/v0.26.0/tatuin-macOS-arm64.tar.gz.sha256) | 92 B | `native/darwin/arm64` |
+| [tatuin-macOS-x86_64.tar.gz](https://github.com/panter-dsd/tatuin/releases/download/v0.26.0/tatuin-macOS-x86_64.tar.gz) | 5.6 MiB | `native/darwin/x64` |
+| [tatuin-macOS-x86_64.tar.gz.sha256](https://github.com/panter-dsd/tatuin/releases/download/v0.26.0/tatuin-macOS-x86_64.tar.gz.sha256) | 93 B | `native/darwin/x64` |
+| [tatuin-Windows-msvc-arm64.zip](https://github.com/panter-dsd/tatuin/releases/download/v0.26.0/tatuin-Windows-msvc-arm64.zip) | 4.7 MiB | `native/win/arm64` |
+| [tatuin-Windows-msvc-arm64.zip.sha256](https://github.com/panter-dsd/tatuin/releases/download/v0.26.0/tatuin-Windows-msvc-arm64.zip.sha256) | 96 B | `native/win/arm64` |
+| [tatuin-Windows-msvc-x86_64.zip](https://github.com/panter-dsd/tatuin/releases/download/v0.26.0/tatuin-Windows-msvc-x86_64.zip) | 5.0 MiB | `native/win/x64` |
+| [tatuin-Windows-msvc-x86_64.zip.sha256](https://github.com/panter-dsd/tatuin/releases/download/v0.26.0/tatuin-Windows-msvc-x86_64.zip.sha256) | 97 B | `native/win/x64` |
 
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Rust | 14,579 | 126 | 2,270 | 97 |
-| Toml | 4,134 | 12 | 448 | 8 |
-| Markdown | 0 | 71 | 45 | 3 |
-| Text | 0 | 5 | 3 | 1 |
+## Distribution status
+
+Reported by **4** distros on [repology.org](https://repology.org/project/tatuin). **3** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
 
 ## Improve this data
 
 Install metadata for tatuin lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `tatuin` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/tatuin.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/tatuin.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:13:47Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:46:33Z._
