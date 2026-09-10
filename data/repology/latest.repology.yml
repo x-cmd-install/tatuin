@@ -1,0 +1,54 @@
+- repo: aur
+  srcname: tatuin
+  binname: tatuin
+  visiblename: tatuin
+  version: 0.25.2
+  origversion: 0.25.2-1
+  status: outdated
+  summary: Task Aggregator TUI for Obsidian, Todoist, Gitlab TODO and Github Issues
+  maintainers:
+    - kemelzaidan@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: tatuin-bin
+  binname: tatuin-bin
+  visiblename: tatuin-bin
+  version: 0.26.0
+  origversion: 0.26.0-1
+  status: newest
+  summary: Task Aggregator TUI for Obsidian, Todoist, Gitlab TODO and Github Issues
+  maintainers:
+    - dominiquini@aur
+  licenses:
+    - MIT
+- repo: freebsd
+  srcname: deskutils/tatuin
+  binname: tatuin
+  visiblename: deskutils/tatuin
+  version: 0.26.0
+  origversion: 0.26.0_6
+  status: newest
+  summary: Task Aggregator TUI for N providers
+  maintainers:
+    - alven@freebsd.org
+  categories:
+    - deskutils
+- repo: rosa_13
+  subrepo: contrib/release
+  srcname: tatuin
+  binnames:
+    - tatuin
+    - tatuin-debuginfo
+    - tatuin-debugsource
+  visiblename: tatuin
+  version: 0.26.0
+  origversion: 0.26.0-1
+  status: newest
+  summary: Task Aggregator TUI for N providers
+  maintainers:
+    - a.proklov@rosa.ru
+  licenses:
+    - MIT
+  categories:
+    - Editors
