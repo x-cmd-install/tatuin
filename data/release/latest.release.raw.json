@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 5792764,
       "digest": "sha256:13d28e5dee5510b3827acb751ba21a8fbdc8e2113be4f9d6e7e4032b46b233f3",
-      "download_count": 6,
+      "download_count": 8,
       "created_at": "2026-09-16T18:29:37Z",
       "updated_at": "2026-09-16T18:29:37Z",
       "browser_download_url": "https://github.com/panter-dsd/tatuin/releases/download/v0.27.0/tatuin-Linux-gnu-x86_64.tar.gz"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 5935866,
       "digest": "sha256:d37b414995919990a6de3e205a4d3c8bc4ece04f313efeae4386fd943c6c9337",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-09-16T18:29:55Z",
       "updated_at": "2026-09-16T18:29:56Z",
       "browser_download_url": "https://github.com/panter-dsd/tatuin/releases/download/v0.27.0/tatuin-Linux-musl-x86_64.tar.gz"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 5021857,
       "digest": "sha256:9984824b22b8307e7ffcb0c0d59bf4f84e49f99b14e755a10be576acd00b3090",
-      "download_count": 0,
+      "download_count": 2,
       "created_at": "2026-09-16T18:33:19Z",
       "updated_at": "2026-09-16T18:33:19Z",
       "browser_download_url": "https://github.com/panter-dsd/tatuin/releases/download/v0.27.0/tatuin-macOS-arm64.tar.gz"
