@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 93,
       "digest": "sha256:25cff716d3d8479d08de1d7a563dda96a9346056e9d8bdb41877fbac73face10",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-09-16T18:30:04Z",
       "updated_at": "2026-09-16T18:30:04Z",
       "browser_download_url": "https://github.com/panter-dsd/tatuin/releases/download/v0.27.0/tatuin-FreeBSD-i686.tar.gz.sha256"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 5792764,
       "digest": "sha256:13d28e5dee5510b3827acb751ba21a8fbdc8e2113be4f9d6e7e4032b46b233f3",
-      "download_count": 12,
+      "download_count": 15,
       "created_at": "2026-09-16T18:29:37Z",
       "updated_at": "2026-09-16T18:29:37Z",
       "browser_download_url": "https://github.com/panter-dsd/tatuin/releases/download/v0.27.0/tatuin-Linux-gnu-x86_64.tar.gz"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 5935866,
       "digest": "sha256:d37b414995919990a6de3e205a4d3c8bc4ece04f313efeae4386fd943c6c9337",
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2026-09-16T18:29:55Z",
       "updated_at": "2026-09-16T18:29:56Z",
       "browser_download_url": "https://github.com/panter-dsd/tatuin/releases/download/v0.27.0/tatuin-Linux-musl-x86_64.tar.gz"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 92,
       "digest": "sha256:2600dfc91fd16fc627f2cdb2d76aa67c83aa6b86a852f1e254953df169ada58b",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-09-16T18:33:19Z",
       "updated_at": "2026-09-16T18:33:19Z",
       "browser_download_url": "https://github.com/panter-dsd/tatuin/releases/download/v0.27.0/tatuin-macOS-arm64.tar.gz.sha256"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 96,
       "digest": "sha256:4c3bff2841766ff163613e34d7cdf6ea900e06f19b53d28a4fea54ee7a5f494f",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-09-16T18:42:03Z",
       "updated_at": "2026-09-16T18:42:03Z",
       "browser_download_url": "https://github.com/panter-dsd/tatuin/releases/download/v0.27.0/tatuin-Windows-msvc-arm64.zip.sha256"
