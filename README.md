@@ -14,11 +14,11 @@ x install tatuin
 
 ## Code insight
 
-Total: **18,690** lines of code across **109** files in the top 5 languages.
+Total: **18,701** lines of code across **109** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 14,595 | 123 | 2,271 | 97 |
+| Rust | 14,606 | 124 | 2,272 | 97 |
 | Toml | 4,095 | 12 | 444 | 8 |
 | Markdown | 0 | 71 | 45 | 3 |
 | Text | 0 | 5 | 3 | 1 |
@@ -31,27 +31,27 @@ Total: **18,690** lines of code across **109** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.27.0` (2026-09-16)
-- **Last commit**: 2026-10-05
+- **Last commit**: 2026-10-07
 - **Assets in release**: 26
 
 ## Popularity
 
-- **Stars**: 144 · **Forks**: 4 · **Open issues**: 124 · **Contributors**: 4
+- **Stars**: 144 · **Forks**: 4 · **Open issues**: 125 · **Contributors**: 4
 
 ## Totals (cumulative)
 
-- **Releases**: 44 · **Merged PRs**: 352 · **Open PRs**: 0 · **Closed issues**: 106 · **Open issues**: 18 · **Commits**: 1669
+- **Releases**: 44 · **Merged PRs**: 353 · **Open PRs**: 0 · **Closed issues**: 107 · **Open issues**: 18 · **Commits**: 1671
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 1 | 13 | 0 | 1 | 0 | 24 |
-| last60d | 2026-08-07 | 1 | 25 | 0 | 1 | 0 | 37 |
-| 90d | 2026-07-08 | 1 | 40 | 0 | 1 | 0 | 49 |
-| last180d | 2026-04-09 | 1 | 74 | 0 | 2 | 0 | 103 |
-| 360d | 2025-10-11 | 6 | 183 | 0 | 30 | 2 | 363 |
-| last720d | 2024-10-16 | 44 | 352 | 0 | 106 | 18 | 1669 |
+| 30d | 2026-09-07 | 1 | 13 | 0 | 2 | 0 | 25 |
+| last60d | 2026-08-08 | 1 | 26 | 0 | 2 | 0 | 38 |
+| 90d | 2026-07-09 | 1 | 41 | 0 | 2 | 0 | 50 |
+| last180d | 2026-04-10 | 1 | 71 | 0 | 3 | 0 | 104 |
+| 360d | 2025-10-12 | 5 | 183 | 0 | 30 | 2 | 364 |
+| last720d | 2024-10-17 | 44 | 353 | 0 | 107 | 18 | 1671 |
 
 ## Release assets
 
@@ -93,4 +93,4 @@ Install metadata for tatuin lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261006.yml` · 2026-10-06T06:39:58Z._
+_Snapshot: `data/card/261007.yml` · 2026-10-07T06:16:48Z._
