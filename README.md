@@ -31,27 +31,27 @@ Total: **18,701** lines of code across **109** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.27.0` (2026-09-16)
-- **Last commit**: 2026-10-07
+- **Last commit**: 2026-10-09
 - **Assets in release**: 26
 
 ## Popularity
 
-- **Stars**: 144 · **Forks**: 4 · **Open issues**: 125 · **Contributors**: 4
+- **Stars**: 145 · **Forks**: 4 · **Open issues**: 125 · **Contributors**: 4
 
 ## Totals (cumulative)
 
-- **Releases**: 44 · **Merged PRs**: 353 · **Open PRs**: 0 · **Closed issues**: 107 · **Open issues**: 18 · **Commits**: 1671
+- **Releases**: 44 · **Merged PRs**: 354 · **Open PRs**: 0 · **Closed issues**: 107 · **Open issues**: 18 · **Commits**: 1673
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-08 | 1 | 13 | 0 | 2 | 0 | 25 |
-| last60d | 2026-08-09 | 1 | 26 | 0 | 2 | 0 | 38 |
-| 90d | 2026-07-10 | 1 | 38 | 0 | 2 | 0 | 50 |
-| last180d | 2026-04-11 | 1 | 71 | 0 | 3 | 0 | 104 |
-| 360d | 2025-10-13 | 5 | 180 | 0 | 24 | 1 | 364 |
-| last720d | 2024-10-18 | 44 | 353 | 0 | 107 | 18 | 1671 |
+| 30d | 2026-09-09 | 1 | 14 | 0 | 2 | 0 | 26 |
+| last60d | 2026-08-10 | 1 | 27 | 0 | 2 | 0 | 39 |
+| 90d | 2026-07-11 | 1 | 39 | 0 | 2 | 0 | 51 |
+| last180d | 2026-04-12 | 1 | 72 | 0 | 3 | 0 | 105 |
+| 360d | 2025-10-14 | 5 | 181 | 0 | 22 | 1 | 365 |
+| last720d | 2024-10-19 | 44 | 354 | 0 | 107 | 18 | 1673 |
 
 ## Release assets
 
@@ -93,4 +93,4 @@ Install metadata for tatuin lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261008.yml` · 2026-10-08T06:32:07Z._
+_Snapshot: `data/card/261009.yml` · 2026-10-09T06:25:15Z._
