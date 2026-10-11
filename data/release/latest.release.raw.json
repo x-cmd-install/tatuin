@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 5795522,
       "digest": "sha256:0c90d03078316e0472d529cc1ed9707c3438f50086be88c5f9e8b2c9d21a0c7a",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-09-16T18:30:39Z",
       "updated_at": "2026-09-16T18:30:40Z",
       "browser_download_url": "https://github.com/panter-dsd/tatuin/releases/download/v0.27.0/tatuin-FreeBSD-x86_64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 5341664,
       "digest": "sha256:33060b29c69cdd9dc1278f8657839485f89cf6829a122794b6790a5a85a9ccc2",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-09-16T18:29:56Z",
       "updated_at": "2026-09-16T18:29:56Z",
       "browser_download_url": "https://github.com/panter-dsd/tatuin/releases/download/v0.27.0/tatuin-Linux-gnu-arm64.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 5272992,
       "digest": "sha256:a5e616c695d5f5a53b351f1b16168cca380fd749f59de2f107ea68ed5afe09e9",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-09-16T18:29:26Z",
       "updated_at": "2026-09-16T18:29:26Z",
       "browser_download_url": "https://github.com/panter-dsd/tatuin/releases/download/v0.27.0/tatuin-Linux-gnu-riscv64gc.tar.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 5792764,
       "digest": "sha256:13d28e5dee5510b3827acb751ba21a8fbdc8e2113be4f9d6e7e4032b46b233f3",
-      "download_count": 23,
+      "download_count": 24,
       "created_at": "2026-09-16T18:29:37Z",
       "updated_at": "2026-09-16T18:29:37Z",
       "browser_download_url": "https://github.com/panter-dsd/tatuin/releases/download/v0.27.0/tatuin-Linux-gnu-x86_64.tar.gz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 5234784,
       "digest": "sha256:f6c45a1339e125e85d4126e0fd290efe918066560262e40a9d24f6837a7f3cf0",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-09-16T18:30:54Z",
       "updated_at": "2026-09-16T18:30:55Z",
       "browser_download_url": "https://github.com/panter-dsd/tatuin/releases/download/v0.27.0/tatuin-Linux-musl-i686.tar.gz"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 5935866,
       "digest": "sha256:d37b414995919990a6de3e205a4d3c8bc4ece04f313efeae4386fd943c6c9337",
-      "download_count": 25,
+      "download_count": 27,
       "created_at": "2026-09-16T18:29:55Z",
       "updated_at": "2026-09-16T18:29:56Z",
       "browser_download_url": "https://github.com/panter-dsd/tatuin/releases/download/v0.27.0/tatuin-Linux-musl-x86_64.tar.gz"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 4871154,
       "digest": "sha256:0a98f50996d4dba88b3d47ff3e2ebffe66e2f0f211135b17a992a7df50b1fba8",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-09-16T18:37:32Z",
       "updated_at": "2026-09-16T18:37:33Z",
       "browser_download_url": "https://github.com/panter-dsd/tatuin/releases/download/v0.27.0/tatuin-Windows-msvc-x86_64.zip"
