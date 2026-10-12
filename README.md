@@ -46,12 +46,12 @@ Total: **18,723** lines of code across **109** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-11 | 1 | 11 | 0 | 2 | 0 | 17 |
-| last60d | 2026-08-12 | 1 | 27 | 0 | 2 | 0 | 38 |
-| 90d | 2026-07-13 | 1 | 39 | 0 | 2 | 0 | 50 |
-| last180d | 2026-04-14 | 1 | 71 | 0 | 3 | 0 | 103 |
-| 360d | 2025-10-16 | 5 | 180 | 0 | 21 | 1 | 347 |
-| last720d | 2024-10-21 | 44 | 354 | 0 | 107 | 18 | 1675 |
+| 30d | 2026-09-12 | 1 | 11 | 0 | 2 | 0 | 17 |
+| last60d | 2026-08-13 | 1 | 27 | 0 | 2 | 0 | 38 |
+| 90d | 2026-07-14 | 1 | 39 | 0 | 2 | 0 | 50 |
+| last180d | 2026-04-15 | 1 | 71 | 0 | 3 | 0 | 103 |
+| 360d | 2025-10-17 | 5 | 175 | 0 | 20 | 1 | 347 |
+| last720d | 2024-10-22 | 44 | 354 | 0 | 107 | 18 | 1675 |
 
 ## Release assets
 
@@ -93,4 +93,4 @@ Install metadata for tatuin lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261011.yml` · 2026-10-11T06:08:26Z._
+_Snapshot: `data/card/261012.yml` · 2026-10-12T06:37:05Z._
