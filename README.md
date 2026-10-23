@@ -31,7 +31,7 @@ Total: **18,723** lines of code across **109** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.27.0` (2026-09-16)
-- **Last commit**: 2026-10-19
+- **Last commit**: 2026-10-23
 - **Assets in release**: 26
 
 ## Popularity
@@ -40,18 +40,18 @@ Total: **18,723** lines of code across **109** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 44 · **Merged PRs**: 358 · **Open PRs**: 0 · **Closed issues**: 107 · **Open issues**: 18 · **Commits**: 1683
+- **Releases**: 44 · **Merged PRs**: 360 · **Open PRs**: 0 · **Closed issues**: 107 · **Open issues**: 18 · **Commits**: 1687
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 11 | 0 | 1 | 0 | 17 |
-| last60d | 2026-08-23 | 1 | 26 | 0 | 2 | 0 | 39 |
-| 90d | 2026-07-24 | 1 | 37 | 0 | 2 | 0 | 51 |
-| last180d | 2026-04-25 | 1 | 68 | 0 | 2 | 0 | 101 |
-| 360d | 2025-10-27 | 5 | 166 | 0 | 17 | 1 | 318 |
-| last720d | 2024-11-01 | 44 | 358 | 0 | 107 | 18 | 1683 |
+| 30d | 2026-09-23 | 0 | 13 | 0 | 1 | 0 | 19 |
+| last60d | 2026-08-24 | 1 | 27 | 0 | 2 | 0 | 41 |
+| 90d | 2026-07-25 | 1 | 39 | 0 | 2 | 0 | 53 |
+| last180d | 2026-04-26 | 1 | 70 | 0 | 2 | 0 | 103 |
+| 360d | 2025-10-28 | 5 | 167 | 0 | 17 | 1 | 320 |
+| last720d | 2024-11-02 | 44 | 360 | 0 | 107 | 18 | 1687 |
 
 ## Release assets
 
@@ -84,6 +84,10 @@ Total: **18,723** lines of code across **109** files in the top 5 languages.
 | [tatuin-Windows-msvc-x86_64.zip](https://github.com/panter-dsd/tatuin/releases/download/v0.27.0/tatuin-Windows-msvc-x86_64.zip) | 4.6 MiB | `native/win/x64` |
 | [tatuin-Windows-msvc-x86_64.zip.sha256](https://github.com/panter-dsd/tatuin/releases/download/v0.27.0/tatuin-Windows-msvc-x86_64.zip.sha256) | 97 B | `native/win/x64` |
 
+## Distribution status
+
+Reported by **4** distros on [repology.org](https://repology.org/project/tatuin). **4** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
+
 ## Improve this data
 
 Install metadata for tatuin lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `tatuin` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -93,4 +97,4 @@ Install metadata for tatuin lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:04:05Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:11:10Z._
