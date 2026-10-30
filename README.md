@@ -31,7 +31,7 @@ Total: **18,723** lines of code across **109** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.27.0` (2026-09-16)
-- **Last commit**: 2026-10-26
+- **Last commit**: 2026-10-30
 - **Assets in release**: 26
 
 ## Popularity
@@ -40,18 +40,18 @@ Total: **18,723** lines of code across **109** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 44 · **Merged PRs**: 361 · **Open PRs**: 0 · **Closed issues**: 107 · **Open issues**: 18 · **Commits**: 1689
+- **Releases**: 44 · **Merged PRs**: 363 · **Open PRs**: 0 · **Closed issues**: 107 · **Open issues**: 18 · **Commits**: 1693
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 0 | 12 | 0 | 1 | 0 | 16 |
-| last60d | 2026-08-30 | 1 | 25 | 0 | 2 | 0 | 38 |
-| 90d | 2026-07-31 | 1 | 38 | 0 | 2 | 0 | 52 |
-| last180d | 2026-05-02 | 1 | 70 | 0 | 2 | 0 | 100 |
-| 360d | 2025-11-03 | 5 | 159 | 0 | 17 | 1 | 303 |
-| last720d | 2024-11-08 | 44 | 361 | 0 | 107 | 18 | 1689 |
+| 30d | 2026-09-30 | 0 | 14 | 0 | 1 | 0 | 18 |
+| last60d | 2026-08-31 | 1 | 26 | 0 | 2 | 0 | 40 |
+| 90d | 2026-08-01 | 1 | 40 | 0 | 2 | 0 | 54 |
+| last180d | 2026-05-03 | 1 | 72 | 0 | 2 | 0 | 102 |
+| 360d | 2025-11-04 | 5 | 160 | 0 | 17 | 1 | 305 |
+| last720d | 2024-11-09 | 44 | 363 | 0 | 107 | 18 | 1693 |
 
 ## Release assets
 
@@ -97,4 +97,4 @@ Install metadata for tatuin lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T06:09:28Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T06:15:29Z._
