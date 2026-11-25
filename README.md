@@ -46,12 +46,12 @@ Total: **18,743** lines of code across **109** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 12 | 0 | 0 | 0 | 15 |
-| last60d | 2026-09-25 | 0 | 24 | 0 | 1 | 0 | 31 |
-| 90d | 2026-08-26 | 1 | 39 | 0 | 2 | 0 | 54 |
-| last180d | 2026-05-28 | 1 | 73 | 0 | 2 | 0 | 96 |
-| 360d | 2025-11-29 | 3 | 156 | 0 | 13 | 1 | 275 |
-| last720d | 2024-12-04 | 44 | 372 | 0 | 107 | 18 | 1715 |
+| 30d | 2026-10-26 | 0 | 11 | 0 | 0 | 0 | 15 |
+| last60d | 2026-09-26 | 0 | 24 | 0 | 1 | 0 | 31 |
+| 90d | 2026-08-27 | 1 | 39 | 0 | 2 | 0 | 54 |
+| last180d | 2026-05-29 | 1 | 71 | 0 | 2 | 0 | 96 |
+| 360d | 2025-11-30 | 3 | 156 | 0 | 13 | 1 | 275 |
+| last720d | 2024-12-05 | 44 | 372 | 0 | 107 | 18 | 1715 |
 
 ## Release assets
 
@@ -84,10 +84,6 @@ Total: **18,743** lines of code across **109** files in the top 5 languages.
 | [tatuin-Windows-msvc-x86_64.zip](https://github.com/panter-dsd/tatuin/releases/download/v0.27.0/tatuin-Windows-msvc-x86_64.zip) | 4.6 MiB | `native/win/x64` |
 | [tatuin-Windows-msvc-x86_64.zip.sha256](https://github.com/panter-dsd/tatuin/releases/download/v0.27.0/tatuin-Windows-msvc-x86_64.zip.sha256) | 97 B | `native/win/x64` |
 
-## Distribution status
-
-Reported by **4** distros on [repology.org](https://repology.org/project/tatuin). **4** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
-
 ## Improve this data
 
 Install metadata for tatuin lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `tatuin` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -97,4 +93,4 @@ Install metadata for tatuin lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:25:02Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:02:12Z._
